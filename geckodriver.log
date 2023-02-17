@@ -1,0 +1,3 @@
+Invalid port. Exiting...
+1676625757481	geckodriver	INFO	Listening on 127.0.0.1:54308
+1676625760531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EZ\\AppData\\Local\\Temp\\rust_mozprofileGlStge"
